@@ -66,3 +66,19 @@ npm install express -save
 				console.log("Servidor rodando com Express");
 			});
 ```
+
+9. Installing nodemon
+
+```shell
+
+npm install -g nodemon
+
+```
+
+9. To run nodemon
+
+```shell
+
+nodemon name_of_javascript_file.js
+
+```
